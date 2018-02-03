@@ -1,0 +1,7 @@
+[package]
+name = "ssh_test"
+version = "0.1.0"
+authors = ["segfo <k.segfo@gmail.com>"]
+
+[dependencies]
+ssh2 = "0.3"
